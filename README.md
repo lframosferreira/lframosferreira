@@ -30,6 +30,7 @@
 <a href="https://www.pola.rs/" target="_blank"> <img src="https://raw.githubusercontent.com/carnarez/polars-static/master/logos/polars-logo-dimmed.svg" alt="polars" width="40" height="40"/> </a>
 <a href="https://www.tensorflow.org/?hl=pt-br" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tensorflow" width="40" height="40"/> </a>
 <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
+<a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
 </p>
 
 ### Other technologies
