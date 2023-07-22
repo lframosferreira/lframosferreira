@@ -3,6 +3,8 @@
 
 - 🔭 I’m interested in **Data Science, Data Mining and Machine Learning**
 
+- :video_game: I'm also interested in game design and development
+
 - 🤝 I’m looking to help other developers and researchers with anything I can
 
 - 📫 How to reach me **lframos_ferreira@outlook.com**
