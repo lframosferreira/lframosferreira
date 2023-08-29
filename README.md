@@ -16,7 +16,7 @@
 
 ## Languages
 
-![](https://skillicons.dev/icons?i=python,c,cpp,js,ts,rust,bash)
+![](https://skillicons.dev/icons?i=python,c,cpp,js,ts,rust,bash,julia)
 
 ### Data analysis and Machine Learning
 
@@ -32,6 +32,8 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lframosferreira&show_icons=true&locale=en&layout=compact" alt="lframosferreira" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lframosferreira&show_icons=true&locale=en" alt="lframosferreira" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lframosferreira&show_icons=true&theme=dark" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lframosferreira&theme=dark&hide=jupyter%20notebook,tex,standard%20ml&layout=compact" />
+</p>
