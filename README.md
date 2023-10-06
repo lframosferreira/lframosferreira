@@ -3,7 +3,7 @@
 
 - 🔭 I’m interested in **Data Science, Data Mining and Machine Learning**
 
-- :video_game: I'm also interested in game design and development
+- :rocket: I'm also interested in **operating systems, computer networking and embedded  software**
 
 - 🤝 I’m looking to help other developers and researchers with anything I can
 
