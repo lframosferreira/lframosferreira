@@ -1,5 +1,5 @@
 <h1 align="center">Hello , I'm Luís Felipe</h1>
-<h3 align="center">Computer Scientist student at Universidade Federal de Minas Gerais</h3>
+<h3 align="center">Computer Science student at Universidade Federal de Minas Gerais</h3>
 
 - 🔭 I’m interested in **Data Science, Data Mining and Machine Learning**
 
