@@ -1,9 +1,9 @@
 <h1 align="center">Hello , I'm Luís Felipe</h1>
 <h3 align="center">Computer Science student at Universidade Federal de Minas Gerais</h3>
 
-- 🔭 I’m interested in **Data Science, Data Mining and Machine Learning**
+- 🔭 I’m interested in **Theoretical Computer Science, Parameterized Complexity and Algorithms**
 
-- :rocket: I'm also interested in **operating systems, computer networking and embedded  software**
+- :rocket: I'm also interested in **Machine Learning and Data Mining**
 
 - 🤝 I’m looking to help other developers and researchers with anything I can
 
