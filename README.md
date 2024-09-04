@@ -1,9 +1,9 @@
 <h1 align="center">Hello , I'm Luís Felipe</h1>
 <h3 align="center">Computer Science student at Universidade Federal de Minas Gerais</h3>
 
-- 🔭 I’m interested in **Game Development and Computer Graphics**
+- 🔭 I’m interested in **Computational Theory**, **Algorithms** and **Satisfiability Modulo Theories**
 
-- :rocket: I'm also interested in **Machine Learning and Data Mining**
+- 🎮 I'm also interested in **Game Development and Computer Graphics**
 
 - 🤝 I’m looking to help other developers and researchers with anything I can
 
