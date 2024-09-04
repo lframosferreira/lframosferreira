@@ -1,5 +1,6 @@
 <h1 align="center">Hello , I'm Luís Felipe</h1>
 <h3 align="center">Computer Science student at Universidade Federal de Minas Gerais</h3>
+<h3 align="center">Embedded Software Intern at Embraer</h3>
 
 - 🔭 I’m interested in **Computational Theory**, **Algorithms** and **Satisfiability Modulo Theories**
 
@@ -17,10 +18,6 @@
 ## Languages
 
 ![](https://skillicons.dev/icons?i=python,c,cpp,js,ts,rust,bash,julia)
-
-### Data analysis and Machine Learning
-
-![](https://skillicons.dev/icons?i=tensorflow,pytorch)
 
 ### Text editors
 
