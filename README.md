@@ -17,15 +17,15 @@
 
 ## Languages
 
-![](https://skillicons.dev/icons?i=python,c,cpp,js,ts,rust,bash,julia)
+![](https://skillicons.dev/icons?i=c,cpp,rust,python,js,ts,lua,bash,julia)
 
 ### Text editors
 
-![](https://skillicons.dev/icons?i=neovim,vscode,nano)
+![](https://skillicons.dev/icons?i=neovim,vscode)
 
 ### Other technologies
 
-![](https://skillicons.dev/icons?i=linux,docker,git,github,githubactions,nodejs,mysql,postman,latex,md)
+![](https://skillicons.dev/icons?i=linux,docker,git,github,githubactions,nodejs,postman,latex,md)
 
 ---
 
