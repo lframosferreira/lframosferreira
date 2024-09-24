@@ -8,7 +8,7 @@
 
 - 🤝 I’m looking to help other developers and researchers with anything I can
 
-- 📫 How to reach me **lframos_ferreira@outlook.com**
+- 📫 How to reach me: **lframos_ferreira@outlook.com**
 
 ## Connect with me
 
