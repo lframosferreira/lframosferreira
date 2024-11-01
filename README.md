@@ -8,7 +8,7 @@
 
 - 🤝 I’m looking to help other developers and researchers with anything I can
 
-- 📫 How to reach me: **lframos_ferreira@outlook.com**
+- 📫 How to reach me: **lframos.lf@gmail.com**
 
 ## Connect with me
 
@@ -21,7 +21,7 @@
 
 ### Text editors
 
-![](https://skillicons.dev/icons?i=neovim,vscode)
+![](https://skillicons.dev/icons?i=neovim,vscod)
 
 ### Other technologies
 
