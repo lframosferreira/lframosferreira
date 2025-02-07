@@ -1,10 +1,9 @@
 <h1 align="center">Hello , I'm Luís Felipe</h1>
 <h3 align="center">Computer Science student at Universidade Federal de Minas Gerais</h3>
-<h3 align="center">Embedded Software Intern at Embraer</h3>
 
 - 🔭 I’m interested in **Computational Theory**, **Algorithms** and **Satisfiability Modulo Theories**
 
-- 🎮 I'm also interested in **Game Development and Computer Graphics**
+- 🎮 I'm also interested in **Data Mining and Machine Learning**
 
 - 🤝 I’m looking to help other developers and researchers with anything I can
 
