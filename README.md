@@ -1,9 +1,10 @@
 <h1 align="center">Hello , I'm Luís Felipe</h1>
-<h3 align="center">Computer Science student at Universidade Federal de Minas Gerais</h3>
+<h3 align="center">Software Engineer at Uber</h3>
+<h3 align="center">Computer Science graduate from Universidade Federal de Minas Gerais</h3>
 
 - 🔭 I’m interested in **Computational Theory**, **Algorithms** and **Satisfiability Modulo Theories**
 
-- 🎮 I'm also interested in **Data Mining and Machine Learning**
+- 🎮 I'm also interested in **Game Development**
 
 - 🤝 I’m looking to help other developers and researchers with anything I can
 
@@ -16,7 +17,7 @@
 
 ## Languages
 
-![](https://skillicons.dev/icons?i=c,cpp,rust,python,js,ts,lua,bash,julia)
+![](https://skillicons.dev/icons?i=go,c,cpp,rust,python,js,ts,lua,bash,julia)
 
 ### Text editors
 
